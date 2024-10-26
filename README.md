@@ -1,2 +1,2 @@
-# FlavoFit
+# FlavorFit
 codes for FlavorFit
